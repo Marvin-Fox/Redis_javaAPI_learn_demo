@@ -1,0 +1,24 @@
+HELP.md
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**
+!**/src/test/**
+
+### IntelliJ IDEA ###
+*.idea
+*.iws
+*.iml
+*.ipr
+
+# Eclipse Project Files
+.classpath
+.project
+.settings/
+
+node_modules
+build
+/tmp
+
+
+
+
